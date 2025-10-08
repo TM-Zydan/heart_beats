@@ -1,0 +1,6 @@
+buat file di vscode dengan format python 
+buka new terminal di vscode untuk membuat virtual environment ketikkan perintah  python -m venv nama_env jika menggunakan Python3 di Linux/Mac ketikkan perintah python3 -m venv nama_env
+jika sudah membuat environment selanjutnya buka powershell untuk membuka perizinan environment ketikkan perintah Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned jika ada balasan dari ketikkan Y 
+buka terminal kembali ketikkan perintah .\heart_beats_env\Scripts\Activate.ps1 selanjutnya instal pygame dan numpy dengan perintah pip install pygame numpy
+selanjutnya masukkan source code yg sudah saya upload
+dah selesaiiiiiiiiiiiii
